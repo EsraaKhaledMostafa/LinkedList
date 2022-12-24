@@ -1,1 +1,1 @@
-# Linked Listt
+# Linked List Data Structure
